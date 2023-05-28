@@ -5,4 +5,3 @@
 
 Tableau dashboard image displayed below.
 
-<img src="images/combine_images.jpg" alt="My Image">
